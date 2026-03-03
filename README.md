@@ -55,6 +55,8 @@
 
 ### Зависимости между таблицами
 advertisement.id  →  flats.id
+
 flats.city_id     →  city.city_id
+
 flats.type_id     →  type.type_id
 
